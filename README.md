@@ -3,7 +3,7 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: http:/arora1997v/happy-birthday-princess/
+URL: http:https://github.com/arora1997v/happy-birthday-princess
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
